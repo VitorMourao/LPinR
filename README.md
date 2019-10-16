@@ -4,3 +4,4 @@ This repository will have material to study and implement Linear Programming usi
 ## Useful Links
 [What it is Linear Programming? (Wikipedia)](https://en.wikipedia.org/wiki/Linear_programming)
 
+[A nice introduction of LP in R](https://www.r-bloggers.com/linear-programming-in-r/)
