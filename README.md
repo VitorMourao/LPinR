@@ -3,8 +3,8 @@ This repository will have material to study and implement Linear Programming usi
 
 ## Folders
 ### Simple Example
-This folder contains my first implementation of Linear Programming in R, Besides the implemented code there is also a pdf that shows how to solve the problem graphically
-
+This folder contains my first implementation of Linear Programming in R, Besides the implemented code there is also a pdf that shows how to solve the problem graphically.  
+<br/><br/>
 ## Useful Links
 [What it is Linear Programming? (Wikipedia)](https://en.wikipedia.org/wiki/Linear_programming)
 
