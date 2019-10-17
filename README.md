@@ -1,6 +1,6 @@
 # LPinR
 This repository will have material to study and implement Linear Programming using R.
-
+<br/><br/>
 ## Folders
 ### Simple Example
 This folder contains my first implementation of Linear Programming in R and, besides that, a pdf that shows how to solve the problem graphically.  
