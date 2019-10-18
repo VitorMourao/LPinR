@@ -6,7 +6,7 @@ This repository will have material to study and implement Linear Programming usi
 This folder contains my first implementation of Linear Programming in R and, besides that, a pdf that shows how to solve the problem graphically.
 
 ### Math Modeling
-This folder contains some basics ideas for modelling a LP problem, how to create our model and a basic implementation in R.
+This folder contains some basics ideas for modeling a LP problem, how to create our model and a basic implementation in R.
 <br/><br/>
 ## Useful Links
 [What it is Linear Programming? (Wikipedia)](https://en.wikipedia.org/wiki/Linear_programming)
