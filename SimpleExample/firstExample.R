@@ -41,5 +41,5 @@ best_sol <- optimum$solution
 names(best_sol) <- c("x[1]", "x[2]")
 print(best_sol)
 
-#Cheche the value of objective function at optimal point
+#Check the value of objective function at optimal point
 print(paste("Total: ", optimum$objval, sep = ""))
