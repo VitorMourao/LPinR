@@ -1,1 +1,1 @@
-In this folder I want to show the idea of modeling our LP problem, in MathModel.pdf
+In this folder I want to show the idea of modeling our LP problem, in [MathModel](https://github.com/VitorMourao/LPinR/blob/master/MathModeling/MathModel.pdf) (.pdf) I start with a very simple concept and expand it. In [Modeling](https://github.com/VitorMourao/LPinR/blob/master/MathModeling/Modeling.R) (.R) I solve 3 examples from MathModel.pdf.
