@@ -7,7 +7,7 @@ This folder contains my first implementation of Linear Programming in R and, bes
 
 ### Math Modeling
 This folder contains some basics ideas for modeling a LP problem, how to create our model and a basic implementation in R.
-<br/><br/>
+<br/>
 
 ### Optimization problems
 This folder contains some famous optimization problems, already has () problems and will contain examples of mix, diet, cut, financial and project programation problems.
