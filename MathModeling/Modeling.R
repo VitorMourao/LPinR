@@ -1,7 +1,7 @@
 # Calling lpsolve library
 library(lpSolve)
 
-##########
+###########
 print("Example 10")
 ## EXAMPLE 10 ##
 #Maximize 90x[1] + 100x[2]
